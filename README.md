@@ -2,6 +2,9 @@
 
 Este repositorio contiene el desarrollo y las evidencias correspondientes al **Reto 2**, enfocado en dar el salto del entorno local a la nube mediante la sincronización de un repositorio Git con **GitHub**.
 
+## 🌐 Enlace a la práctica
+* Puedes ver la página web desplegada en el siguiente enlace: [https://fsolaje.github.io/reto1-FranTomas/](https://fsolaje.github.io/reto1-FranTomas/)
+
 ## 📌 ¿Qué se hace en esta práctica?
 
 * **Conexión con GitHub:** Creación de un repositorio remoto vacío y enlace con el entorno local utilizando autenticación por token (en LliureX/Linux) o *Git Credential Manager* (en Windows).
